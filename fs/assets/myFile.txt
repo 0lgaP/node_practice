@@ -22,4 +22,28 @@ green: hue
 red: hue 
 blue: hue 
 yellow: hue 
+This is some teeextwhite: value 
+red: hue 
+black: hue 
+yellow: hue 
+green: hue 
+blue: hue 
+black: hue 
+white: value 
+red: hue 
+blue: hue 
+yellow: hue 
+green: hue 
+white: value 
+black: hue 
+red: hue 
+blue: hue 
+yellow: hue 
+green: hue 
+black-ISH: hue 
+white: value 
+green: hue 
+red: hue 
+blue: hue 
+yellow: hue 
 This is some teeext
